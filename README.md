@@ -4,10 +4,7 @@ Welcome to **NP EduHub**, a modern and responsive educational website designed t
 
 ---
 
-## 🌐 Live Demo
 
-> 🚀 [View Live Project](#)  
-(*Add your hosted link here, like Netlify/Vercel/GitHub Pages*)
 
 ---
 
